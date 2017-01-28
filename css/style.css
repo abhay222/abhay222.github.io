@@ -1,0 +1,15 @@
+.container
+{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 100vh;
+}
+.item
+{
+     background-color: #f3f2ef;
+     border-radius: 3px;
+     padding-left: 20px;
+     width: 365px;
+	 height: 229px; 
+}
