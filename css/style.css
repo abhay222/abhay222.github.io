@@ -7,9 +7,36 @@
 }
 .item
 {
-     background-color: #f3f2ef;
+     background-color: #424242;
      border-radius: 3px;
-     padding-left: 20px;
      width: 365px;
-	 height: 229px; 
+	 height: auto;
+	 
+}
+.data{
+	padding: 20px;
+	background-color: #e0e0e0;
+}
+#heading-about-us{
+	padding-left: 20px;
+	color: #fff
+	
+
+}
+h3
+{
+	font-family: 'Roboto', serif;
+    font-size: 28px;
+
+}
+h4
+{
+	font-family: 'Roboto', serif;
+    font-size: 18px;
+}
+p
+{
+	font-family: 'Roboto', serif;
+    font-size: 18px;
+
 }
